@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "cake2", "cake2\cake2.vbproj", "{E73FB646-427A-4317-88A9-BC3880349838}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E73FB646-427A-4317-88A9-BC3880349838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E73FB646-427A-4317-88A9-BC3880349838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E73FB646-427A-4317-88A9-BC3880349838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E73FB646-427A-4317-88A9-BC3880349838}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CF7EE22-48A4-4E5E-9698-055D66A912E5}
+	EndGlobalSection
+EndGlobal
